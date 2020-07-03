@@ -9,7 +9,7 @@ class Header extends Component {
             <React.Fragment>
                <div className="header">
 <div className="siteName">
-    <h1>TVMave</h1>
+    <h1>TVMaze</h1>
 </div>
 
 </div>
